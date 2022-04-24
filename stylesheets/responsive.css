@@ -1,0 +1,168 @@
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
+  /* телефончики */
+  h1{
+    color: #3F3333;
+    font-family: Rainer;
+    font-size: 150px;
+    line-height: 154px;
+    position: relative;
+    padding-top: 3%;
+    padding-left: 3%;
+    }
+    p{
+      font-family: Craftwork;
+    }
+  h1+p{
+    font-family: Craftwork;
+    font-size: 24px;
+    position: relative;
+    color: #3F3333;
+    padding-top: 5%;
+    padding-left: 3%;
+    }
+    h2+p{
+      font-family: Craftwork;
+      font-size: 18px;
+      width: 28%;
+      padding-left: 11%;
+      padding-top: 6%;
+      line-height: 22px;
+      color: #3F3333;
+    }
+  p+p{
+    font-family: Craftwork;
+    font-size: 18px;
+    width: 28%;
+    padding-left: 11%;
+    padding-top: 4%;
+    line-height: 22px;
+    color: #3F3333;
+  }
+  h3+p{
+    font-family: Craftwork;
+    font-size: 18px;
+    width: 28%;
+    padding-left: 11%;
+    padding-top: 4%;
+    line-height: 22px;
+    color: #FFFFFF;
+  }
+  h4+p{
+    font-size: 18px;
+    width: 28%;
+    padding-left: 11%;
+    padding-top: 4%;
+    line-height: 22px;
+    color: #3F3333;
+  }
+  h3{
+    font-family: Rainer2;
+    font-size: 274px;
+    color: #FFFFFF;
+    display: inline-block;
+  }
+  h2{
+    font-family: Rainer2;
+    font-size: 144px;
+    padding-top: 3%;
+    padding-left: 3%;
+    position: relative;
+  }
+  h4{
+    font-family: Craftwork;
+    font-size: 32px;
+    width: 410px;
+    padding-left: 11%;
+    padding-top: 13%;
+    position: relative;
+    line-height: 38px;
+    color: #3F3333;
+  }
+  .block1 , .block3 , .block5{
+    background-color: #FFFFFF;
+    height: 100vh;
+    width: 100%;
+  }
+  .block2 , .block4 {
+    background-color: #41A1D3;
+    height: 100vh;
+    width: 100%;
+  }
+  .block6{
+    background-color: #3F3333;
+    height: 10vh;
+    width: 100%;
+  }
+  .h4{
+  color: #FFFFFF;
+  }
+  .h3, .h5{
+  color: #41A1D3;
+  }
+  .n1{
+    margin-left: -18%;
+    padding-left: 30%;
+    padding-top: 9%;
+  }
+  .n2{
+    padding-left: 28%;
+    padding-top: 9%;
+  }
+  .n3{
+    padding-left: 28%;
+    padding-top: 9%;
+  }
+  .tn1{
+    margin-left: -1.5%;
+  }
+  .tn1, .tn2, .tn3{
+    font-family: Craftwork;
+    font-size: 18px;
+    width: 21%;
+    padding-left: 10%;
+    padding-top: 9%;
+    line-height: 22px;
+    color: #FFFFFF;
+    display: inline-flex;
+  }
+  .sidebar1 {
+    position: absolute;
+    font-family: Craftwork;
+    color: #41A1D3;
+    top: 65%;
+    left: 90%;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .sidebar12 {
+    position: absolute;
+    font-family: Craftwork;
+    color: #41A1D3;
+    top: 70%;
+    left: 90%;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .sidebar13 {
+    position: absolute;
+    font-family: Craftwork;
+    color: #41A1D3;
+    top: 75%;
+    left: 90%;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .google{
+    margin-top: -19%;
+    margin-left: 50%;
+    width: 50%;
+    top: -10%;
+    left: 11%;
+  }
+  .f1, .f2, .f3{
+  font-size: 18px;
+  color: #FFFFFF;
+  display: inline-block;
+  }
+
+}

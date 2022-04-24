@@ -1,0 +1,24 @@
+@import "reset.css";
+@import "content.css";
+@import "responsive.css";
+
+
+@font-face {
+font-family: "Rainer";
+src: url("../font/RainerTestv04-Regular.otf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
+@font-face {
+font-family: "Craftwork";
+src: url("../font/CraftworkGrotesk-Medium.ttf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
+
+@font-face {
+font-family: "Rainer2";
+src: url("../font/RainerTestv04-Medium.otf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}

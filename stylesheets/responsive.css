@@ -22,8 +22,8 @@
     }
     h2+p{
       font-family: Craftwork;
-      font-size: 18px;
-      width: 28%;
+      font-size: 14px;
+      width: 56%;
       padding-left: 11%;
       padding-top: 6%;
       line-height: 22px;
@@ -31,8 +31,8 @@
     }
   p+p{
     font-family: Craftwork;
-    font-size: 18px;
-    width: 28%;
+    font-size: 14px;
+    width: 56%;
     padding-left: 11%;
     padding-top: 4%;
     line-height: 22px;
@@ -40,16 +40,16 @@
   }
   h3+p{
     font-family: Craftwork;
-    font-size: 18px;
-    width: 28%;
+    font-size: 14px;
+    width:  56%;
     padding-left: 11%;
     padding-top: 4%;
     line-height: 22px;
     color: #FFFFFF;
   }
   h4+p{
-    font-size: 18px;
-    width: 28%;
+    font-size: 14px;
+    width: 56%;
     padding-left: 11%;
     padding-top: 4%;
     line-height: 22px;
@@ -63,7 +63,7 @@
   }
   h2{
     font-family: Rainer2;
-    font-size: 144px;
+    font-size: 64px;
     padding-top: 3%;
     padding-left: 3%;
     position: relative;
@@ -163,6 +163,12 @@
   font-size: 18px;
   color: #FFFFFF;
   display: inline-block;
+  padding-left: 3%;
+  padding-top: 1%;
   }
 
+  .f2{
+    /* padding-left: 5%; */
+    width: 11%;
+  }
 }

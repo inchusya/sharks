@@ -23,7 +23,7 @@ h1+p{
     font-size: 18px;
     width: 28%;
     padding-left: 11%;
-    padding-top: 6%;
+    padding-top: 3%;
     line-height: 22px;
     color: #3F3333;
   }
@@ -161,4 +161,11 @@ color: #41A1D3;
 font-size: 18px;
 color: #FFFFFF;
 display: inline-block;
+padding-left: 3%;
+padding-top: 1%;
+}
+
+.f2{
+  /* padding-left: 5%; */
+  width: 11%;
 }

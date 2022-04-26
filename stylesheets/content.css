@@ -116,7 +116,7 @@ color: #41A1D3;
 .tn1, .tn2, .tn3{
   font-family: Craftwork;
   font-size: 18px;
-  width: 21%;
+  width: 30%;
   padding-left: 10%;
   padding-top: 9%;
   line-height: 22px;
@@ -151,9 +151,9 @@ color: #41A1D3;
   line-height: 29px;
 }
 .google{
-  margin-top: -19%;
+  margin-top:-26%;
   margin-left: 50%;
-  width: 50%;
+
   top: -10%;
   left: 11%;
 
@@ -170,11 +170,17 @@ padding-top: 1%;
   /* padding-left: 5%; */
   width: 11%;
 }
+.img6{
+  margin-top: -33%;
+  margin-left: 50%;
+}
+}
 
 
-
-
-
+/*
+*{
+  height: fit-content;
+} */
 
 * {box-sizing: border-box}
 

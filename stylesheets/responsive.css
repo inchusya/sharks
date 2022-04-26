@@ -180,12 +180,28 @@
   font-size: 10px;
   color: #FFFFFF;
   display: inline-flex;
-  margin-left: 3%;
+  margin-left: 8%;
   margin-top: 1%;
   width: 25%;
+  line-height: 17px;
+  }
+
+  .f2{
+    /* padding-left: 5%; */
+    width: 11%;
   }
 .img6{
   display: none;
 }
 
+}
+
+
+
+@media only screen and (min-device-width: 1365px) and (max-device-width: 1441px) {
+  /* для среднего монитора */
+  .img6{
+    margin-top: -33%;
+    margin-left: 50%;
+  }
 }
